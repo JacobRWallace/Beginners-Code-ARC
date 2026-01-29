@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Student Score Lookup</title>
+  <link rel="stylesheet" href="styles.css" />
+  <!-- Poppins Font (Optional) -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body>
+  <div class="container">
+    <h1>Student Score Lookup</h1>
+    <p>Enter a student's name to see their score and grade!</p>
+
+    <div class="input-group">
+      <label for="nameInput">Student Name:</label>
+      <input
+        type="text"
+        id="nameInput"
+        placeholder="e.g. Alice, Bob..."
+      />
+      <button id="checkScoreBtn">Check Score</button>
+    </div>
+
+    <div class="result">
+      <h2>Result</h2>
+      <p id="scoreResult">Score will appear here...</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

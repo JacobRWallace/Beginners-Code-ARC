@@ -1,0 +1,2 @@
+this is a file containing lowercase text. 
+the text now should be converted to uppercase!

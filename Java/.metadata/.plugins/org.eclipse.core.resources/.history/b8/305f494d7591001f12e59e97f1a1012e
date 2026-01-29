@@ -1,0 +1,8 @@
+package ClassWork102124;
+
+public class CsStdDemo {
+	
+	public static void main(String[] args)
+	// TODO Auto-genereated method stub
+	CompScStd std1 = new CompScStd("David", "R99999999", 2023, 4, 4, 8);
+}

@@ -1,0 +1,14 @@
+package ClassWork102124;
+
+public class CsStdDemo {
+	
+	public static void main(String[] args) {
+	// TODO Auto-genereated method stub
+	CompScStd std1 = new CompScStd("David", "R99999999", 2023, 4, 4, 8);
+	CompScStd std2 = new CompScStd("Bob", "R88888888", 2022, 6, 3, 10);
+		
+	System.out.println("Remaining hours for David: " + std1.getRemainingHours());
+	System.out.println("Remaining hours for Bob: " + std2.getRemainingHours());
+	
+	}
+}

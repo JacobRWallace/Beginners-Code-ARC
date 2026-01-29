@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f2f2f2;
+}
+
+.container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.input-group {
+  margin-bottom: 1rem;
+}
+
+label {
+  font-weight: 500;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  font-size: 1rem;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 1rem;
+  background: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #45a049;
+}
+
+.result {
+  margin-top: 20px;
+}
+
+.result p {
+  transition: color 0.3s ease;
+  white-space: pre-line; /* To handle line breaks */
+}
+
+/* Updated .high-score class with purple styling */
+.high-score {
+  font-weight: bold;
+  border: 2px solid #6a0dad; /* Purple border */
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f3e5f5; /* Light purple background */
+  color: #4b0082; /* Indigo text color */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: all 0.3s ease; /* Smooth transition */
+}

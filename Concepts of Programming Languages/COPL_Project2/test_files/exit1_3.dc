@@ -1,0 +1,33 @@
+firstvar=1236548654;
+secondvar=685453245863541;
+thirdvar=0;
+inputvar=0;
+statevar=0;
+
+input(inputvar);
+
+if (inputvar *3+ 6/ 2 > 10+firstvar*3) {
+        thirdvar=(firstvar * 4 / 2 + 1 - (43 + 21 / 2)) % 100000000;
+}
+else {
+        thirdvar=(secondvar * 4 / 2 + 1 - (43 + 21 / (3*2)) % 100000000;
+}
+
+othervar =(secondvar-firstvar);
+
+if (thirdvar > othervar)
+{
+        statevar = 1;
+}
+else
+{
+        if(thirdvar < othervar)
+        {
+                statevar = 2;
+        }
+        else
+        {
+                statevar = 3;
+        }
+}
+output(statevar);

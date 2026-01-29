@@ -1,0 +1,19 @@
+Q1:	The "HW1.c" file was submitted as a seperate file with this "Answers.txt" file.
+	The time complexity used was O(n) because of the use of slow and fast pointers.
+
+Q2:	Big-O Notation Answers:
+	2.1: O((logˇ2(n))^2)
+	2.2: O(logˇ2^2(n))
+	2.3: O(logˇ3(n)*(logˇ2(n)+1))
+	2.4: O((n)logˇ2(n))
+
+Q3:	Big-O Notations:	Answers:
+	(1) 4n^3+3n^2+2n-5: --- O(n^3)
+	(2) (n)log(n)+3n-15: -- O((n)log(n))
+
+Q4:	Big-O Notations:			      Answers:
+	(1) n^3log(3n)+2n^4+3n^2+127: --------------- O(n^4)
+	(2) sqrt(2n)+30log(4n)^2+27n-3: ------------- O(n)
+	(3) (n+1)!+2^n: ----------------------------- O(2^n)
+	(4) cube-root[n^2]+(3n)log^2(2n)+4n^(6/7): -- O(n^(6/7))
+

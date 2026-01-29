@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;ClassWork112224.AES_Example.java&apos; to &apos;AESExample.java&apos;&#x0D;&#x0A;- Original project: &apos;zzClassWork&apos;&#x0D;&#x0A;- Original element: &apos;ClassWork112224.AES_Example.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ClassWork112224.AESExample.java&apos;" description="Rename compilation unit &apos;AES_Example.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ClassWork112224{AES_Example.java" name="AESExample.java" references="false" stamp="1732327746729" version="1.0"/>
+</session>

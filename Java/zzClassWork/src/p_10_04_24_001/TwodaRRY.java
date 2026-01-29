@@ -1,0 +1,35 @@
+package p_10_04_24_001;
+
+public class TwodaRRY {
+
+    public static void main(String[] args) {
+        int[][] a = new int[3][4];
+        
+        for (int r = 0; r < 3; r++) {
+            for (int c = 0; c < 4; c++) {
+                a[r][c] = r * c+1;
+            }
+        }
+
+        for (int r = 0; r < a.length; r++) {
+            for (int c = 0; c < a[r].length; c++) {
+                System.out.print(a[r][c] + " ");
+            }
+            System.out.print("\n");
+        }
+
+        int[][] b = {
+            {1, 2, 3, 5},
+            {4, 5, 6},
+            {7, 8, 9, 10}
+        };
+
+        System.out.println(b[1].length);
+
+        double[][] d11 = new double[4][];
+        d11[0] = new double[5];
+        d11[1] = new double[1];
+        d11[2] = new double[10];
+        d11[3] = new double[1];
+    }
+}

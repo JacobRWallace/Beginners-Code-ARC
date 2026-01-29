@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Rectangle_.java&apos; to &apos;ClassWork100424/src/p_10_04_24_001&apos;&#x0D;&#x0A;- Original project: &apos;ClassWork090924&apos;&#x0D;&#x0A;- Destination element: &apos;ClassWork100424/src/p_10_04_24_001&apos;&#x0D;&#x0A;- Original element: &apos;p_9_09_24_002.Rectangle_.java&apos;" description="Copy compilation unit" destination="=ClassWork100424/src&lt;p_10_04_24_001" element1="/src&lt;p_9_09_24_002{Rectangle_.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1728501552694" units="1" version="1.0"/>
+</session>
